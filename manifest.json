@@ -1,0 +1,8 @@
+{
+    "name": "Franky's Graduate Countdown",
+    "short_name": "Graduate Countdown",
+    "description": "Franky's Graduate Countdown",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "natural"
+}
